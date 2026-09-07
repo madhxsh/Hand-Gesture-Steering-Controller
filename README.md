@@ -72,13 +72,14 @@ HandGestureSteeringController/
 ├── requirements.txt
 └── README.md
 
-🔮 Future Improvements
+# Future Improvements
 Convert the project into a desktop application
 Improve hand detection accuracy
 Add customizable gesture controls
 Add user settings
 Improve the control dashboard
 Add game-specific controller profiles
-👨‍💻 Author
 
+
+Author
 MADHESH G
